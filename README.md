@@ -6,7 +6,7 @@ MNIST dataset classification with different architecture
   - comparison with different depth of CNN network
 
 ____________________________________________________________________________________________________________________
-|                        |  w/o Batch Normalization layer  | w/ Batch Normalization layer  | 2-layer CNN | 4-layer |
+|                        |  w/o Batch Normalization layer  | w/ Batch Normalization layer  | 2-layer CNN | 4-layer CNN |
 |------------------------|---------------------------------|-------------------------------| ------------|---------|
 |   training accuracy    |             0.9963              |            0.9963             |0.9973|0.9959|
 |     training loss      |             0.0120              |            0.0118             |0.0078|0.0128|
